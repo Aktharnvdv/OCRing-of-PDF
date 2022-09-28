@@ -1,7 +1,6 @@
 # OCRing-of-PDF
-Fask API for extracting data from PDF using tesseract ocr.
 
-Extracted data is returned  in json format
+       Fask API for extracting data from PDF using tesseract ocr.
 
 # tesseract-OCR
 # Flask
