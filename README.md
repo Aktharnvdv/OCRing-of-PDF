@@ -13,11 +13,11 @@
 
 # Libraries:
 
-    *pytesseract*
-    *PyPDF2*
-    *pdf2image*
-    *numpy*
-    *cv2*
-    *Flask*
+    pytesseract
+    PyPDF2
+    pdf2image
+    numpy
+    cv2
+    Flask
     
     
